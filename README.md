@@ -1,11 +1,8 @@
 # digital-literacy-project
 
-project overview:
+
 name: shivansh kadam
 reg number:25MIP10070
-module summaries:
-links:
-task 3 google form: https://docs.google.com/forms/d/e/1FAIpQLSf17Gf0xmHLzuDYDR_e3aBNPyTDjTRpEb8Anr4ypGhcJApHfw/viewform?usp=dialog
 
 Project Overview
 
@@ -64,6 +61,8 @@ Studied Cyberbulling and created a case study along with prevention tips.
 
 This project helped me understand how to use digital tools responsibly, communicate professionally, and stay safe online. It also improved my practical knowledge of platforms that are important for academic and career growth.
 
-GOOGLE FORM LINK IS BELOW-https://docs.google.com/forms/d/e/1FAIpQLSc_J2FypcfZWjwdmESG7LkCASBuGr5ONHLKMgCu_zldmAEN6w/viewform?usp=publish-editor
+links:
+GOOGLE FORM LINK IS BELOW-https:
+task 3 google form: https://docs.google.com/forms/d/e/1FAIpQLSf17Gf0xmHLzuDYDR_e3aBNPyTDjTRpEb8Anr4ypGhcJApHfw/viewform?usp=dialog
 
 ---
